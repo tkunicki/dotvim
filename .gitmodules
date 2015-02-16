@@ -1,3 +1,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = http://github.com/tpope/vim-sensible.git
+[submodule "bundle/darcula"]
+	path = bundle/darcula
+	url = http://github.com/blueshirts/darcula.git
