@@ -4,3 +4,6 @@
 [submodule "bundle/darcula"]
 	path = bundle/darcula
 	url = http://github.com/blueshirts/darcula.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = http://github.com/klen/python-mode.git
